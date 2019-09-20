@@ -1,0 +1,15 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl
+[submodule "SDL-mirror"]
+	path = SDL-mirror
+	url = https://github.com/spurious/SDL-mirror
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui/
+[submodule "gl3w"]
+	path = gl3w
+	url = https://github.com/skaslev/gl3w
